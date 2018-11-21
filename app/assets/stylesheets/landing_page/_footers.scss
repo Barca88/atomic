@@ -4,9 +4,11 @@
 #footer {
     background: $color-dark;
     font-size: 0.9em;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
     padding: 80px 0 0;
-    position: relative;
-    clear: both;
 }
 
 .footer-col h3 {
